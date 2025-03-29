@@ -1,7 +1,9 @@
 ## 📊 Power BI Model – Genshin Impact Character Comparison
+
 This repository contains a Power BI model designed to analyze and compare DPS, Sub-DPS, and Support characters in Genshin Impact. The project demonstrates data modeling, DAX calculations, and interactive visualizations to provide meaningful insights into character performance and usage rates.
 
 ## 🔹 Technical Highlights
+
 1️⃣ Data Modeling & Transformation
 Star Schema Implementation – Optimized relationships between character stats, roles, and usage data
 
